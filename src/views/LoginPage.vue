@@ -31,9 +31,9 @@ async function onSubmit() {
   <main class="flex flex-1 items-center justify-center px-5 py-16">
     <div class="rise w-full max-w-sm">
       <div class="mb-8 text-center">
-        <span class="chip chip-accent mb-4">Welcome back</span>
-        <h1 class="mt-3 text-2xl font-semibold tracking-tight text-text">Sign in to Projects</h1>
-        <p class="mt-1.5 text-sm text-text-2">Your workspace is waiting.</p>
+        <span class="chip chip-accent mb-4">Welcome back!</span>
+        <h1 class="mt-3 text-2xl font-semibold tracking-tight text-text">Sign in</h1>
+        <p class="mt-1.5 text-sm text-text-2">A blank canvas ready to be colored.</p>
       </div>
       <form
         class="card flex flex-col gap-4 p-6"
